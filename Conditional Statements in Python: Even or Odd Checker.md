@@ -12,7 +12,6 @@ To write a Python program to check whether the given number is **even** or **odd
 4. End the program.
 
 ## 🧾 Program
-
 ```
 a=int (input ("ENTER A NUMBER:"))
 if a%2==0:   
